@@ -22,6 +22,7 @@ dependencies {
 }
 
 checkstyle{
+	
 	toolVersion = "8.17"
 	maxWarnings = 0
 }
